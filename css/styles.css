@@ -10990,6 +10990,8 @@ html {
 }
 .masthead .masthead-avatar {
   width: 15rem;
+  border: solid 2px;
+  border-radius: 100px;
 }
 
 @media (min-width: 992px) {
